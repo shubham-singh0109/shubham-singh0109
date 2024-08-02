@@ -26,6 +26,8 @@
 
 <h3 align="left">Shubham's Activity GitHub Graph:</h3>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham-singh0109&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shubhamsingh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham-singh0109&show_icons=true&locale=en&theme=tokyonight" alt="shubhamsingh" /></p>
