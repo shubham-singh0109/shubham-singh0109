@@ -26,7 +26,7 @@
 
 <h3 align="left">Shubham's Activity GitHub Graph:</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-singh0109)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-singh0109&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-singh0109&size_weight=0.5&count_weight=0.5)
 
