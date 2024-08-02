@@ -26,7 +26,7 @@
 
 <h3 align="left">Shubham's Activity GitHub Graph:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham-singh0109&show_icons=true&locale=en&layout=compact&theme=dracula" alt="shubhamsingh" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham-singh0109&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shubhamsingh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham-singh0109&show_icons=true&locale=en&theme=tokyonight" alt="shubhamsingh" /></p>
 
