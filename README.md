@@ -26,7 +26,7 @@
 
 <h3 align="left">Shubham's Activity GitHub Graph:</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-singh0109&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shubhamsingh")
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-singh0109&hide_progress=true)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham-singh0109&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shubhamsingh" /></p>
 
