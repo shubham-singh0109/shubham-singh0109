@@ -39,8 +39,8 @@
 
 <br>
 
+<h3 align="center"> Contribution Graph </h3>
 <img src="https://raw.githubusercontent.com/shubham-singh0109/shubham-singh0109/output/github-contribution-grid-snake.svg" alt="contri graph" width="100%" height="auto">
-![Snake GIF](https://raw.githubusercontent.com/shubham-singh0109/shubham-singh0109/output/github-contribution-grid-snake.svg)
 
 
 
