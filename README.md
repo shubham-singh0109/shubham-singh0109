@@ -27,6 +27,7 @@
 <br/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
+<br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
@@ -42,7 +43,7 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham-singh0109&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=8&hide=python" width="80%" height="auto" /></p>
 </div>
 
-
+<br/>
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
