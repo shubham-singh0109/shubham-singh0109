@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **go4shubh.singh01@gmail.com**
 
-- ⚡ Fun fact **I'm Coder**
+- ⚡ Fun fact **Code runs the world silently everywhere**
 
 <br/>
 <h2 align="center">⛓️‍💥 Connect with me ⛓️‍💥</h2>
