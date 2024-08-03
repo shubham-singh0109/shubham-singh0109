@@ -41,3 +41,12 @@
 
 <img src="images/github-contribution-grid-snake.svg" alt="Alt text" width="100%" height="auto">
 
+# My Project
+
+## Contribution Snake GIF
+
+Here is the snake GIF representing my GitHub contributions:
+
+![Snake GIF](https://raw.githubusercontent.com/shubham-singh0109/shubham-singh0109/output/github-contribution-grid-snake.svg)
+
+
