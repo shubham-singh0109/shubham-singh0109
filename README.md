@@ -38,6 +38,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham-singh0109&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=8&hide=python" /></p>
 <br/>
 
-![snake gif](https://raw.githubusercontent.com/shubham-singh0109/shubham-singh0109/output/dist/github-contribution-grid-snake.svg)
 
+<img src="images/github-contribution-grid-snake.svg" alt="Alt text" width="100%" height="auto">
 
