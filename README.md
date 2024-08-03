@@ -18,7 +18,7 @@
 - ⚡ Fun fact **I'm Coder**
 
 <br/>
-<h3 align="center">Connect with me</h3>
+<h3 align="center">⛓️‍💥 Connect with me ⛓️‍💥</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/shubham-singh-1471001a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhamsingh" height="30" width="40" /></a>
 <a href="https://www.instagram.com/jisu_singh.jpeg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubhamsingh" height="30" width="40" /></a>
