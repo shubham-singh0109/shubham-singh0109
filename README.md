@@ -30,11 +30,9 @@
 
 <br/>
 <h3 align="center">⚡ Activity Graph ⚡</h3>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-singh0109&&theme=tokyonight" alt="shubhamsingh"  /></p>
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=shubham-singh0109&show_icons=true&locale=en&theme=tokyonight" alt="shubhamsingh" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham-singh0109&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=8&hide=python" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-singh0109&&theme=tokyonight" alt="shubhamsingh"  /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham-singh0109&show_icons=true&locale=en&theme=tokyonight" alt="shubhamsingh" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham-singh0109&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=8&hide=python" /></p>
 
 <br/>
 <img src="https://raw.githubusercontent.com/shubham-singh0109/shubham-singh0109/output/github-contribution-grid-snake.svg" alt="contri graph" width="100%" height="auto">
