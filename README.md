@@ -3,7 +3,7 @@
 <h3 align="center">Data Scientist & Software Development Engineer</h3>
 
 <br/>
-<img align="right" alt="Coding" width="400" src="images/SQL FOR DATA SCIENCE_ ONE-STOP SOLUTION FOR BEGINNERS!.gif" width="100%" height="310">
+<img align="right" alt="Coding" width="400" src="images/SQL FOR DATA SCIENCE_ ONE-STOP SOLUTION FOR BEGINNERS!.gif" width="100%" height="300">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham-singh0109&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamsingh" /> </p>
 <p align="left"> <a href="https://shubham-singh0109.github.io/" target="blank"> <img src="https://img.shields.io/twitter/follow/shubhamsingh?logo=twitter&style=for-the-badge" alt="shubhamsingh"> </p>
 
