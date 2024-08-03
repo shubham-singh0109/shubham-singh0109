@@ -39,6 +39,6 @@
 
 <br/>
 <h3 align="center">⛓️‍💥 Contribution Graph ⛓️‍💥</h3>
-<p><img align="center" src="file:///Users/jisusingh/Downloads/github-contribution-grid-snake.svg" /></p>
+![snake gif](https://raw.githubusercontent.com/shubham-singh0109/shubham-singh0109/output/dist/github-contribution-grid-snake.svg)
 
 
