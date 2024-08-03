@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Singh</h1>
 <h3 align="center">Data Scientist & Software Development Engineer</h3>
 
-<div>
+<br/>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham-singh0109&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamsingh" /> </p>
 <p align="left"> <a href="https://shubham-singh0109.github.io/" target="blank"> <img src="https://img.shields.io/twitter/follow/shubhamsingh?logo=twitter&style=for-the-badge" alt="shubhamsingh"> </p>
@@ -16,8 +16,8 @@
 - 📫 How to reach me **go4shubh.singh01@gmail.com**
 
 - ⚡ Fun fact **I'm Coder**
-</div>
 
+<br/>
 <h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/shubham-singh-1471001a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhamsingh" height="30" width="40" /></a>
