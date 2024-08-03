@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **DevOps & MLOps**
 
-- 💬 Ask me about **TechTalk, or anyhting...**
+- 💬 Ask me about **TechTalk, or anything...**
 
 - 📫 How to reach me **go4shubh.singh01@gmail.com**
 
