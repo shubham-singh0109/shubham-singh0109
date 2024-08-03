@@ -36,9 +36,10 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=shubham-singh0109&show_icons=true&locale=en&theme=tokyonight" alt="shubhamsingh" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham-singh0109&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=8&hide=python" /></p>
+<br/>
 
-
+<div>
 <h3 align="center"> Contribution Graph </h3>
 <img src="images/github-contribution-grid-snake.svg" alt="Alt text" width="100%" height="auto">
-
+</div>
 
