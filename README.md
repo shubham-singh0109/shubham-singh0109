@@ -1,4 +1,4 @@
-<img src="images/banner.gif" alt="Alt text" width="100%" height="auto">
+<img src="images/banner_cat.gif" alt="Alt text" width="100%" height="auto">
 <h1 align="center">Hi 👋, I'm Shubham Singh</h1>
 <h3 align="center">Data Scientist & Software Development Engineer</h3>
 
