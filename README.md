@@ -36,6 +36,16 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham-singh0109&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=8&hide=python" /></p>
 </div>
 
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/shubham-singh0109/shubham-singh0109/output/github-contribution-grid-snake.svg" alt="contri graph" width="100%" height="auto" />
+  
+  <br/><br/><br/>
+</div>
+
+
 <br/>
 <img src="https://raw.githubusercontent.com/shubham-singh0109/shubham-singh0109/output/github-contribution-grid-snake.svg" alt="contri graph" width="100%" height="auto">
 
