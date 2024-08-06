@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **TechTalk or anything...**
 
-- 📫 How to reach me **https://shubham-singh0109.github.io**
+- 📫 How to reach me **go4shubh.singh01@gmail.com**
 
 - ⚡ Fun fact **Code runs the world silently everywhere**
 
