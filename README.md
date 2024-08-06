@@ -27,6 +27,7 @@
 
 <br/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+
 <!--
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
@@ -77,8 +78,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="aws" width="50" height="50" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" alt="aws" width="40" height="40" />
-
-
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="aws" width="40" height="40" />
 
