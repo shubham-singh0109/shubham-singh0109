@@ -59,13 +59,7 @@
           
           
           
-          
-          
-          
-          
-          
-          
-           </p>
+</p>
 
 <br/>
 <h2 align="center">⚡ Activity Graph ⚡</h2>
