@@ -31,7 +31,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,c,cpp,java,python,swift,git,mysql,mongodb,postgresql,r,dynamodb" />
     <img src="https://skillicons.dev/icons?i=github,react,angular,nodejs,express,jest,nextjs,bootstrap,mui,tailwind,firebase,supabase" /><br>
-    <img src="https://skillicons.dev/icons?i=,graphql,flask,vscode,anaconda,androidstudio,apple,aws,azure,gcp,vercel,figma" /><br> 
+    <img src="https://skillicons.dev/icons?i=graphql,flask,vscode,anaconda,androidstudio,apple,aws,azure,gcp,vercel,figma" /><br> 
 </div>
 
 
