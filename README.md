@@ -21,8 +21,8 @@
 <h2 align="center">⛓️‍💥 Connect with me ⛓️‍💥</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/shubham-singh-1471001a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhamsingh" height="30" width="40" /></a>
-<a href="https://www.instagram.com/jisu_singh.jpeg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubhamsingh" height="30" width="40" /></a>
 <a href="https://ssingh21.sites.umassd.edu/" target="blank"> <img align="center" src="https://skillicons.dev/icons?i=wordpress" alt="shubhamsingh" height="30" width="40" /></a>
+<a href="https://www.instagram.com/jisu_singh.jpeg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubhamsingh" height="30" width="40" /></a>
 <a href="https://twitter.com/shubham00363941" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubhamsingh" height="30" width="40" /></a>
 
 <br/>
