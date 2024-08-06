@@ -129,8 +129,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="aws" width="40" height="40" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" alt="aws" width="40" height="40" />
-
-       
           
 </p>
 
