@@ -22,6 +22,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/shubham-singh-1471001a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhamsingh" height="30" width="40" /></a>
 <a href="https://www.instagram.com/jisu_singh.jpeg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubhamsingh" height="30" width="40" /></a>
+<a href="https://ssingh21.sites.umassd.edu/" target="blank"> <img align="center" src="https://skillicons.dev/icons?i=wordpress" alt="shubhamsingh" height="30" width="40" /></a>
 <a href="https://twitter.com/shubham00363941" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubhamsingh" height="30" width="40" /></a>
 
 <br/>
@@ -29,7 +30,7 @@
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,c,cpp,java,python,swift,git,latex,mysql,mongodb,postgresql,r" />
-    <img src="https://skillicons.dev/icons?i=github,react,angular,nodejs,express,redux,jest,nextjs,bootstrap,mui,tailwind,firebase,supabase,babel,kafka" /><br>
+    <img src="https://skillicons.dev/icons?i=github,react,angular,nodejs,express,redux,babel,jest,nextjs,bootstrap,mui,tailwind,firebase,supabase,kafka" /><br>
     <img src="https://skillicons.dev/icons?i=dynamodb,graphql,vscode,apple,androidstudio,linux,flask,anaconda,postman,docker,aws,azure,gcp,vercel,figma" /><br> 
 </div>
 <!--
