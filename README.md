@@ -30,7 +30,7 @@
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,c,cpp,java,python,swift,git,latex,mysql,mongodb,postgresql,r" />
-    <img src="https://skillicons.dev/icons?i=github,react,angular,nodejs,express,redux,babel,jest,nextjs,flask,bootstrap,mui,tailwind,firebase,supabase" /><br>
+    <img src="https://skillicons.dev/icons?i=github,react,angular,nodejs,express,redux,jest,nextjs,flask,bootstrap,mui,tailwind,firebase,supabase,langchain" /><br>
     <img src="https://skillicons.dev/icons?i=dynamodb,graphql,vscode,apple,androidstudio,linux,anaconda,postman,kafka,docker,aws,azure,gcp,vercel,figma" /><br> 
 </div>
 <!--
